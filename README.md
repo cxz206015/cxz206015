@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://profile-counter.glitch.me/cxz206015/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxz206015&layout=compact&theme=tokyonight)
