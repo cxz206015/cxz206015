@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Moe-Counter](https://count.getloli.com/get/@Moe-Counter?theme=rule34)
 <!--
 **cxz206015/cxz206015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
